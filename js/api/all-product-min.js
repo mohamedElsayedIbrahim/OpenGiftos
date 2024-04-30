@@ -1,0 +1,1 @@
+import{getDataFromApi}from"../connectBackend/connect.js";document.querySelector("#fillAllProducts")&&getDataFromApi("#fillAllProducts","https://fakestoreapi.com/products");
